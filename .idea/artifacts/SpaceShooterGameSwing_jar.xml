@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpaceShooterGameSwing:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/SpaceShooterGameSwing_jar</output-path>
+    <root id="archive" name="SpaceShooterGameSwing.jar">
+      <element id="module-output" name="SpaceShooterGameSwing" />
+    </root>
+  </artifact>
+</component>
